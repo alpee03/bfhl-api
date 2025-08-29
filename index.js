@@ -7,7 +7,7 @@ app.use(bodyParser.json());
 
 // User details
 const fullName = "gunjana_sahoo";
-const dob = "27072023"; // ddmmyyyy
+const dob = "27072023";
 const email = "gunjana.sahoo2022@vitstudent.ac.in";
 const rollNumber = "22BAI1319";
 
