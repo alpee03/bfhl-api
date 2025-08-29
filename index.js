@@ -7,8 +7,8 @@ app.use(bodyParser.json());
 
 // User details
 const fullName = "gunjana_sahoo";
-const dob = "27072023";
-const email = "gunjana.sahoo2022@vitstudent.ac.in";
+const dob = "27072003";
+const email = "gunjanasahoo@gmail.com";
 const rollNumber = "22BAI1319";
 
 // API route

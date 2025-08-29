@@ -26,5 +26,5 @@ This app is configured for deployment on Vercel. Export the app in `index.js` al
 ## Author
 
 - Full Name: gunjana_sahoo
-- Email: gunjana.sahoo2022@vitstudent.ac.in
+- Email: gunjanasahoo@gmail.com
 - Roll Number: 22BAI1319
