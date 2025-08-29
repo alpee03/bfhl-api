@@ -1,0 +1,20 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "description": "BFHL API for data processing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["api", "bfhl", "data-processing"],
+  "author": "gunjana_sahoo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
